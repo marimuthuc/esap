@@ -1,5 +1,5 @@
 # eSAP
-The energy-Saving Adaptation Planner (eSAP) is a Eclipse based plugin developed on top of FeatureIDE. A tool for modeling of energy requirements. eSAP would help the domain experts to model, label, and validate the energy-saving adaptation plans in the early stages of software development.
+The energy-Saving Adaptation Planner (eSAP) is a Eclipse based plugin developed on top of FeatureIDE. eSAP would help the domain experts to model, label, and validate the energy-saving adaptation plans in the early stages of software development.
 # Installation Instruction
 1. Download the zip file from this repo and extract it.
 2. Download Eclipse and Install FeatureIDE: https://github.com/FeatureIDE/FeatureIDE/wiki/Preparing-Eclipse
